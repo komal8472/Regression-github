@@ -122,6 +122,7 @@ Scikit-learn
 ## How to Run
 
 pip install numpy pandas matplotlib scikit-learn
+
 python logistic_regression.py
 
 ---
