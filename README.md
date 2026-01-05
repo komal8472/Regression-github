@@ -1,6 +1,9 @@
-# Regression-
+ 1) Logistic Regression 
+ 2) K-Nearest Neighbors (KNN)
 
-# Logistic Regression :
+
+
+# 1) Logistic Regression :
 
 ##  Repository Structure
 
@@ -141,10 +144,15 @@ Visual interpretation of decision boundaries
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-K-Nearest Neighbors (KNN)
+## 2) K-Nearest Neighbors (KNN) :
+
+## Project Description
+
 
 This project implements a K-Nearest Neighbors (KNN) classification algorithm using Python and scikit-learn.  
 The goal is to predict whether a user will purchase a product based on their Age and Estimated Salary.
+
+---
 
 ## Dataset Information
 
@@ -162,6 +170,8 @@ Dataset Name:
   
 - Purchased (0 = No, 1 = Yes)
 
+---
+
 ## Libraries Used
 
 - NumPy
@@ -171,6 +181,8 @@ Dataset Name:
 - Matplotlib
   
 - scikit-learn
+
+---
 
 ##  Machine Learning Workflow
 
@@ -200,7 +212,8 @@ Dataset Name:
 
     - Test set
    
-      
+  ---
+  
 ## Model Configuration
 
 - Algorithm: K-Nearest Neighbors (KNN)
@@ -213,6 +226,8 @@ Dataset Name:
 
 - Random State: 0
 
+---
+
 ## Model Evaluation
 - Confusion Matrix to analyze prediction results  
 
@@ -220,12 +235,14 @@ Dataset Name:
 
 - Classification Report for precision, recall, and F1-score
 
+---
 
 ## Visualization
 - Decision boundary plots for training and test datasets  
 
 - Scatter plots showing class separation based on Age and Salary
 
+---
 
 ## Key Learnings
 
@@ -239,7 +256,7 @@ Visualization of decision boundaries
 
 Understanding bias and variance
 
-
+---
 
 
 
